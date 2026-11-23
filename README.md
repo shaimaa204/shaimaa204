@@ -16,7 +16,6 @@ I build machine-learning systems and AI-powered products, with a focus on health
 |---|---|---|
 | [**MedEcho**](https://github.com/shaimaa204/MEEDECHO_PROJECT) | Clinical voice-to-report AI: transcribes doctor–patient consultations and generates structured medical reports | Python, Whisper, LLMs, FastAPI, Electron |
 | **OncoTrack** | Early-detection platform for colorectal cancer: risk scoring (A-APCS) and a central screening registry | Web app, healthcare AI |
-| **EDI Prediction** | ML pipeline predicting an Energy Degradation Index under distribution shift | Python, CatBoost, LightGBM, XGBoost, adversarial validation |
 | **ANBAT** | Petra visitor web app with bookings, souvenirs and multilingual content | React, TypeScript, Express |
 | [**ScholarFlow**](https://github.com/shaimaa204/scholar-flow) | Study-planning and productivity web app with goals, timetable and reminders | React, TypeScript, Vite, Firebase |
 
